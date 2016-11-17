@@ -1,4 +1,4 @@
-***
+****
 
 hackly simplified Spectral template, deployed with jekyll
 just for testing purposes
