@@ -1500,7 +1500,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			z-index: 1;
 
 			&:before, &:after {
-				@include vendor('transition', 'width 15.85s ease');  /*speed/time of lines drawing TODO reload time sync*/
+				@include vendor('transition', 'width 5.85s ease');  /*speed/time of lines drawing TODO reload time sync*/
 				@include vendor('transition-delay', '0.25s');
 				background: _palette(fg-bold);
 				content: '';
